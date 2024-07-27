@@ -20,6 +20,11 @@ The primary objective of this project is to create a functional To-Do applicatio
 - **Mark as Completed**: Users can mark tasks as completed.
 - **Persistent Storage**: Tasks are stored in local storage to maintain the list even after the browser is closed or refreshed.
 
+  ## Technologies Used
+- **React**: For building the user interface.
+- **Node.js**: For managing the project's development environment.
+- **Local Storage**: For saving tasks persistently on the client side.
+
 ## Getting Started
 
 ### Prerequisites
