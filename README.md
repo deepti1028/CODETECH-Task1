@@ -29,3 +29,9 @@ The primary objective of this project is to create a functional To-Do applicatio
 1. Clone the repository:
    ```bash
    git clone https://github.com/deepti1028/CODETECH-Task1.git
+2. Install the dependencies:
+   ```bash
+   npm install
+3. Running the app:
+   ```bash
+   npm start
